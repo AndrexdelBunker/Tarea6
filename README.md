@@ -26,6 +26,8 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 <img src="https://latex.codecogs.com/svg.image?\\Ejercicio\left&space;(&space;b&space;\right&space;)\\&space;200&plus;1470&plus;470=&space;2140\\CT=\frac{1}{\frac{1}{2140}&plus;\frac{1}{1000}}&space;\\CT=681.5&space;" title="\\Ejercicio\left ( b \right )\\ 200+1470+470= 2140\\CT=\frac{1}{\frac{1}{2140}+\frac{1}{1000}} \\CT=681.5 " />
 
+<img src="https://latex.codecogs.com/svg.image?\\Ejercicio\left&space;(&space;c&space;\right&space;)\\C_{eq}=\frac{1}{\frac{1}{1\mu&space;F}&plus;\frac{1}{2\mu&space;F}}&space;\\C_{eq}=0.66&space;\mu&space;F\\C_{eq}=\frac{1}{\frac{1}{1\mu&space;F}&plus;\frac{1}{1\mu&space;F}}&space;\\C_{eq}=0.5&space;\mu&space;F\\CT=0.7\mu&space;F&plus;0.5\mu&space;F\\CT=1.2\mu&space;F&space;&space;" title="\\Ejercicio\left ( c \right )\\C_{eq}=\frac{1}{\frac{1}{1\mu F}+\frac{1}{2\mu F}} \\C_{eq}=0.66 \mu F\\C_{eq}=\frac{1}{\frac{1}{1\mu F}+\frac{1}{1\mu F}} \\C_{eq}=0.5 \mu F\\CT=0.7\mu F+0.5\mu F\\CT=1.2\mu F " />
+
 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
 (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
 (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
