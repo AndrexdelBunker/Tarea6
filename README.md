@@ -15,6 +15,8 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 ![image](https://user-images.githubusercontent.com/93835587/149833475-5d3c5f3f-bd24-4230-8dfd-c5b90bcea188.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\Ejercicio\left&space;(&space;a&space;\right&space;)\\0.001pF\to&space;1000\mu&space;F\\CT=47pF&plus;10pF&plus;1000pF\\CT=1057pF\\Ejercicio\left&space;(&space;b&space;\right&space;)\\10000pF\to&space;0.01\mu&space;F\\CT=0.1\mu&space;F&plus;0.01\mu&space;F&plus;0.01\mu&space;F&plus;0.001\mu&space;F\\CT=0.121&space;\mu&space;" title="\\Ejercicio\left ( a \right )\\0.001pF\to 1000\mu F\\CT=47pF+10pF+1000pF\\CT=1057pF\\Ejercicio\left ( b \right )\\10000pF\to 0.01\mu F\\CT=0.1\mu F+0.01\mu F+0.01\mu F+0.001\mu F\\CT=0.121 \mu " />
+
 
 27. Determine la CT para cada circuito de la figura 12-72.
 
