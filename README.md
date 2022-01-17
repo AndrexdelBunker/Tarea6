@@ -9,6 +9,8 @@
 23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V.
 El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 
+<img src="https://latex.codecogs.com/svg.image?\\C=\frac{Q}{V}\\C=\frac{10^{-6}}{4V}\\C=2&space;" title="\\C=\frac{Q}{V}\\C=\frac{10^{-6}}{4V}\\C=2 " />
+
 25. Determine la CT para cada circuito de la figura 12-71. 
 
 ![image](https://user-images.githubusercontent.com/93835587/149833475-5d3c5f3f-bd24-4230-8dfd-c5b90bcea188.png)
