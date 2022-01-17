@@ -4,6 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/93835587/149833277-50132790-e3d6-4670-b336-97c0730ff9e7.png)
 
+<img src="https://latex.codecogs.com/svg.image?\left&space;(&space;a&space;\right&space;)C_{eq}=\frac{1}{\frac{1}{C1}&plus;\frac{1}{C2}}\\C_{eq}=\frac{1}{\frac{1}{1\mu&space;F}&plus;\frac{1}{2.2\mu&space;F}}&space;\\C_{eq}=0.6875\mu&space;F\to&space;0.688&space;\mu&space;F\int_{}^{}" title="\left ( a \right )C_{eq}=\frac{1}{\frac{1}{C1}+\frac{1}{C2}}\\C_{eq}=\frac{1}{\frac{1}{1\mu F}+\frac{1}{2.2\mu F}} \\C_{eq}=0.6875\mu F\to 0.688 \mu F\int_{}^{}" />
+
 23. Dos capacitores en serie (uno de 1 mF, el otro de valor desconocido) se cargan con una fuente de 12 V.
 El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?
 
