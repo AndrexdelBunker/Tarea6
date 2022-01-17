@@ -22,11 +22,11 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 ![image](https://user-images.githubusercontent.com/93835587/149833592-40ec1a59-e3d0-4823-adf0-997669ef69e6.png)
 
-31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
+31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
 
 ![image](https://user-images.githubusercontent.com/93835587/149833658-1b548c48-c6bd-4c34-b80e-1982fc4b39fa.png)
 
-33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
+33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
 (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
 
 35. Repita el problema 33 con los siguientes tiempos:
@@ -43,7 +43,7 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El
 interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se
 queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
-(b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda
+(b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda
 
 ![image](https://user-images.githubusercontent.com/93835587/149833937-577ef426-ef80-45fc-9853-eb262504b345.png)
 
