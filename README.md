@@ -51,7 +51,7 @@ queda por tiempo indefinido. Trace la forma de onda completa del voltaje present
 
 ![image](https://user-images.githubusercontent.com/93835587/149834033-a7b60e85-ac97-47cf-90c4-e58d60b13051.png)
 
-45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia
+45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia
 
 47. Determine la potencia verdadera y la potencia reactiva en el problema 46. 
 
