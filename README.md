@@ -22,6 +22,8 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 ![image](https://user-images.githubusercontent.com/93835587/149833527-fd74d637-2ed7-4597-b31e-f37fd2cf2125.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\Ejercicio\left&space;(&space;a&space;\right&space;)\\2.2&plus;3.3&space;=&space;5.5\\CT=\frac{1}{\frac{1}{10\mu&space;F}&plus;\frac{1}{10\mu&space;F}&plus;\frac{1}{5.5\mu&space;F}}&space;\\CT=2.619\mu&space;F\to&space;CT=2.62\mu&space;F" title="\\Ejercicio\left ( a \right )\\2.2+3.3 = 5.5\\CT=\frac{1}{\frac{1}{10\mu F}+\frac{1}{10\mu F}+\frac{1}{5.5\mu F}} \\CT=2.619\mu F\to CT=2.62\mu F" />
+
 29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.
 (a) Después de que se cierra el interruptor, ¿cuál es la carga total suministrada por la fuente?
 (b) ¿Cuál es el voltaje entre las terminales de cada capacitor?
